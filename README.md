@@ -3,7 +3,7 @@
 
 Incomplete: ⭕ Work in progress: 🚧 Complete: ✅
 
-- ## Week 2: 🚧
+- ## Week 2: ✅
   - Data Preparation and Processing
 - ## Week 3: ⭕
 - ## Week 4: ⭕
