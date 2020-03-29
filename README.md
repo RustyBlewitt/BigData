@@ -7,8 +7,10 @@ Incomplete: ⭕ Work in progress: 🚧 Complete: ✅
   - Data Preparation and Processing
 - ## Week 3: ✅
   - Data Analysis and Interpretation - Statistical Data Analysis
-- ## Week 4: ⭕
-- ## Week 5: ⭕
+- ## Week 4: ✅
+  - Predictive Data Analysis
+- ## Week 5: 🚧
+  - Data Visualisation and Visual Analysis
 - ## Week 6: ⭕
 - ## Week 7: ⭕
 - ## Week 8: ⭕
