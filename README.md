@@ -11,7 +11,8 @@ Incomplete: ⭕ Work in progress: 🚧 Complete: ✅
   - Predictive Data Analysis
 - ## Week 5: ✅
   - Data Visualisation and Visual Analysis
-- ## Week 6: ⭕
+- ## Week 6: ✅
+  - Time Series
 - ## Week 7: ⭕
 - ## Week 8: ⭕
 - ## Week 9: ⭕
