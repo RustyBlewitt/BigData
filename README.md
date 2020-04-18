@@ -13,7 +13,8 @@ Incomplete: ⭕ Work in progress: 🚧 Complete: ✅
   - Data Visualisation and Visual Analysis
 - ## Week 6: ✅
   - Time Series
-- ## Week 7: ⭕
+- ## Week 7: 🚧
+  - Textual Data Analytics
 - ## Week 8: ⭕
 - ## Week 9: ⭕
 
